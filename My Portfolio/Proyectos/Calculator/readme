@@ -1,0 +1,10 @@
+This is my Calculator project.
+the color palette that I have used thought my development has been "Ocean".
+#06283d
+#256d85
+#47b5ff
+#dff6ff
+#ffffff
+
+I need 19 buttons: (0, 1, 2, 3, 4, 5, 6, 7, 8, 9, =, +, -, x, /, %,AC, ".", "+/_");
+
